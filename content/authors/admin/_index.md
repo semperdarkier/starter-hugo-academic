@@ -46,11 +46,12 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: PhD in Distributed Algorithms
+role: PhD student in Computer Science
 highlight_name: true
 title: Manuel Vidigueira
 first_name: Alice
 email: ""
 ---
-Manuel Vidigueira is a PhD student at the EPFL Distributed Computing Lab. His research interests lie in fault-tolerant distributed algorithms, mainly consensus, state machine replication (SMR) and blockchain systems.\
+Manuel Vidigueira is a PhD student at the EPFL Distributed Computing Lab. His research interests lie in fault-tolerant distributed algorithms, mainly consensus, state machine replication (SMR) and blockchain systems.
+
 {style="text-align: justify;"}
