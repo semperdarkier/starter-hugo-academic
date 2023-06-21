@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_0675.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed algorithms, consensus, and
   fault-tolerant systems.
 interests:
